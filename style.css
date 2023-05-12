@@ -29,6 +29,7 @@ body {
     font-size: var(--sm-fs);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
+    overflow-x: hidden;
 }
 li {
     list-style: none;
